@@ -27,3 +27,9 @@ print(f"Minimum number from the tuple is :{min(new_tuple)}")
 # count how many times 2 appears in the tuple (1,2,2,3,4,2,5)
 newest_tuple = (1,2,2,3,4,2,5)
 print(newest_tuple.count(2))
+
+# concatenation
+new1_tuple = (1,2)
+new2_tuple = (3,4)
+new3_tuple = new1_tuple + new2_tuple
+print(new3_tuple)
