@@ -1,6 +1,7 @@
 icecream_flavour = ("Chocolate" , "Vanilla" , "Cherry")
 (cream1 , cream2 , cream3) = icecream_flavour
-icecream_flavour = icecream_flavour + ("Fruits",)
+icecream_flavour = icecream_flavour + ("Fruits",) 
+#  we are making a new tuple
 print(icecream_flavour)
 print(f"My favourite ice cream is : {cream1}")
 

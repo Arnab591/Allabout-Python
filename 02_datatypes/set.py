@@ -9,3 +9,4 @@ employee = ("Arnab" , "Asit" , "Sayan" , "Biki")
 # membership test
 
 print(f"Is Arnab is in the list : {'Arnab' in employee}")
+# set operations --> union , intersection

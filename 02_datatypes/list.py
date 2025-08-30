@@ -38,3 +38,4 @@ list_2 = ["Misri" , "Sugar"]
 list_3 = list_1 + list_2
 print(list_3)
 
+
